@@ -1,18 +1,18 @@
 # Vue.js / Nuxt.js / Express.js / Element-ui / TypeScript Integration Example
 
-###Element UI
+### Element UI
 
 This example uses partial loading of the Element UI components. Only components that were imported inside Element UI will be included in the final bundle
 
-###TypeScript 
+### TypeScript 
 
 TypeScript part was inspired by [nuxt-community/typescript-template](https://github.com/nuxt-community/typescript-template)
 
-###Express.js
+### Express.js
 
 Express.js setup was inspired by [Nuxt.js / Express.js official example](https://github.com/nuxt-community/express-template)
 
-###Backpack
+### Backpack
 
 This template uses [backpack](https://github.com/jaredpalmer/backpack) to watch and build the application, so you can use the latest ES6 features (module syntax, static imports, async/await, etc.).
 
@@ -34,7 +34,7 @@ $ npm start
 $ npm run generate
 ```
 
-###Documentation
+### Documentation
 For detailed explanation on how things work, checkout
 - [Vue.js](https://vuejs.org/v2/guide/) 
 - [Nuxt.js](https://github.com/nuxt/nuxt.js)
@@ -42,7 +42,7 @@ For detailed explanation on how things work, checkout
 - [Element Ui](http://element.eleme.io/#/en-US/component/quickstart)
 - [Backpack](https://github.com/jaredpalmer/backpack)
 
-###Licenses
+### Licenses
 - [Express.js](https://github.com/expressjs/express/blob/master/LICENSE)
 - [Nuxt.js](https://github.com/nuxt/nuxt.js/blob/master/LICENSE.md)
 - [Vue.js](https://github.com/vuejs/vue/blob/master/LICENSE)
