@@ -1,0 +1,9 @@
+@mixin ellipsis($maxWidth: 100%) {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  max-width: $maxWidth;
+  span {
+    display: inline;
+  }
+}

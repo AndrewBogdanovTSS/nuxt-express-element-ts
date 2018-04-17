@@ -1,0 +1,11 @@
+{
+  "dev": {
+    "port": "8088",
+    "user": "OlegSapega",
+    "password": "bbyby1985",
+    "server": "ds159676.mlab.com",
+    "dbPort": "59676",
+    "name": "flats_db",
+    "jwtKey": "secret_key"
+  }
+}
