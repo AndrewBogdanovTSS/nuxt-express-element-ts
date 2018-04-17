@@ -20,10 +20,10 @@ module.exports = {
   /*
   ** Build configuration
   */
-  plugins: ['~/plugins/element-ui', '~/plugins/social-sharing'],
+  plugins: ['~/plugins/element-ui'],
   css: ['~/assets/scss/main.scss'],
   build: {
-    vendor: ['axios', 'gsap', 'vuex-class', 'nuxt-class-component', 'element-ui', 'vue-social-sharing']
+    vendor: ['axios', 'vuex-class', 'nuxt-class-component', 'element-ui']
   },
   /*router: {
     middleware: 'getData'
